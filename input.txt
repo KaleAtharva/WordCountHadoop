@@ -1,0 +1,1 @@
+This is my first hadoop assignment. My name is Atharva Anil Kale. This is assignment 10.
